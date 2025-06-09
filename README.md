@@ -29,5 +29,5 @@ The objective of this project is to analyze the traffic of the website of a comp
 - We used heat map to analyse the traffic by hour and channel, so we get that we have most traffic in Organic Channel at 12 am.
 - The correlation analysis between engagement rate and sessions over time indicates a subtle relationship. Notably, between April 5 and May 5, there was a high volume of sessions but relatively low engagement rate, suggesting that increased traffic did not translate into deeper user interaction.
 
-### Future work:
+### Actionable Recommendation:
 The company needs to focus on some channels like Unassigned, Organic Video & Email for more user traffic.
